@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  max-width: 900px;
+  margin: 50px auto;
+  font-size: 0;
+}
+
+.cell  {
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+  font-size: 1em;
+}
+
+.mh {
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+}
+
+.mv {
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
