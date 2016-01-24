@@ -1,0 +1,14 @@
+.wrapper {
+  max-width: 1200px;
+  margin: 50px auto;
+}
+
+.mh {
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+}
+
+.mv {
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
