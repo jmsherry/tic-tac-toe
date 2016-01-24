@@ -1,6 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
 .wrapper {
-  max-width: 1200px;
+  max-width: 900px;
   margin: 50px auto;
+  font-size: 0;
+}
+
+.cell  {
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+  font-size: 1em;
 }
 
 .mh {
